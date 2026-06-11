@@ -1,0 +1,6 @@
+username,password,realName,userNo,userType,gender,leader,academicYear,enabled
+# 示例行会被系统自动忽略（username 以 __EXAMPLE__ 或 EXAMPLE_ 开头），可不删除；需要导入时去掉前缀并改成真实数据
+__EXAMPLE__stu_20260001,123456,张三,20260001,STUDENT,MALE,false,2025-2026,true
+__EXAMPLE__stu_20260002,,李四,20260002,STUDENT,FEMALE,true,2025-2026,true
+__EXAMPLE__dorm_mgr_01,123456,王宿管,DM-01,DORM_MANAGER,MALE,,,
+__EXAMPLE__admin_01,admin123456,赵管理员,SYS-01,SYS_ADMIN,FEMALE,,,

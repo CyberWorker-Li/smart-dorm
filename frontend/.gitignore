@@ -1,0 +1,11 @@
+web-portal/node_modules/
+web-portal/dist/
+web-student-leader/node_modules/
+web-student-leader/dist/
+web-dorm-manager/node_modules/
+web-dorm-manager/dist/
+web-sys-admin/node_modules/
+web-sys-admin/dist/
+
+backend/
+sql/

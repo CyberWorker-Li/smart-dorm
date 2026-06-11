@@ -1,0 +1,11 @@
+backend/target/
+backend/uploads/
+backend/.idea/
+backend/*.iml
+*.swp
+web-portal/
+web-student-leader/
+web-dorm-manager/
+web-sys-admin/
+
+.vs/
